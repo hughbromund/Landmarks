@@ -15,6 +15,7 @@
 		1E4D354A242FC45100312B59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E4D3548242FC45100312B59 /* LaunchScreen.storyboard */; };
 		1E4D3555242FC45100312B59 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4D3554242FC45100312B59 /* LandmarksTests.swift */; };
 		1E4D3560242FC45100312B59 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4D355F242FC45100312B59 /* LandmarksUITests.swift */; };
+		1E780E76242FCB2600F519C2 /* RowTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E780E75242FCB2600F519C2 /* RowTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1E4D355B242FC45100312B59 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E4D355F242FC45100312B59 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		1E4D3561242FC45100312B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E780E75242FCB2600F519C2 /* RowTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1E4D3548242FC45100312B59 /* LaunchScreen.storyboard */,
 				1E4D354B242FC45100312B59 /* Info.plist */,
 				1E4D3545242FC45100312B59 /* Preview Content */,
+				1E780E75242FCB2600F519C2 /* RowTest.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E780E76242FCB2600F519C2 /* RowTest.swift in Sources */,
 				1E4D353E242FC44F00312B59 /* AppDelegate.swift in Sources */,
 				1E4D3540242FC44F00312B59 /* SceneDelegate.swift in Sources */,
 				1E4D3542242FC44F00312B59 /* ContentView.swift in Sources */,
